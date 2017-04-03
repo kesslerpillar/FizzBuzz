@@ -1,3 +1,8 @@
-Readme.md
-# FizzBuzz
-fizzbuzz TDD kata
+FizzBuzz
+===============
+
+### Prerequisites
+JDK 6 or later
+
+### Build
+./gradlew build
